@@ -1,0 +1,897 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Philadelphia, or, Brotherly love a sermon preached at St. Michaels Crooked-lane London, at Westmerland meeting November 30, 1663 / by J.C.</title>
+            <author>Crosbie, John.</author>
+         </titleStmt>
+         <extent>Approx. 64 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B20883</idno><idno type="EEBO-CITATION">18959093</idno>
+  <idno type="VID">205464</idno>
+  <idno type="EEBO-PROQUEST">2240867273</idno>
+  
+            <idno type="STC">Wing C7239</idno>
+            <idno type="OCLC">18959093</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B20883)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205464)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1666:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Philadelphia, or, Brotherly love a sermon preached at St. Michaels Crooked-lane London, at Westmerland meeting November 30, 1663 / by J.C.</title>
+                  <author>Crosbie, John.</author>
+               </titleStmt>
+               <extent>[6], 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for and by Peter Lillicrap ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1669.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: John Crosbie.</note>
+                  <note>Imperfect: print show-through, with some loss of print.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">Bible. --  N.T. --  Peter, 1st, III, 8 --  Sermons.</term>
+               <term type="topical_term">Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:205464:1"/>
+            <p>PHILADELPHIA OR Brotherly Love, A Sermon Preached at St. <hi>Michaels</hi> CROOKED-LANE <hi>London,</hi> at WESTMERLAND Meeting <hi>November</hi> 30. 1663.</p>
+            <p>
+               <hi>By</hi> J. C. <hi>Mr. of Arts,</hi>
+               <q>
+                  <p>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</p>
+               </q>
+               <q>
+                  <p>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, <bibl>1 Pet. 1.17.</bibl>
+                  </p>
+               </q>
+               <q>
+                  <p>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, <bibl>1 Joh. 3.14.</bibl>
+                  </p>
+               </q>
+               <q>
+                  <p>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, <bibl>Heb. 13.1.</bibl>
+                  </p>
+               </q>
+            </p>
+            <q>
+               <l>Pro se orare necessitas cogit, pro aliis autem Charitas</l>
+               <l>Fraternitatis hortatur, dulcior autem ante Deum</l>
+               <l>Est Oratio: non quam necessitas transmittit, sed quam</l>
+               <l>Charitas fraternitatis commendat. Chrys. sup. Matth.</l>
+               <l>Cunctis esto benignus, nemini blandus, paucis familiaris, ōni<g ref="char:EOLhyphen"/>bus</l>
+               <l>Aequus, ad iram tardus, ad misericordiam pronus, in adver<g ref="char:EOLhyphen"/>sis firmus.</l>
+               <l>In prosperis humilis. <bibl>
+                     <hi>Sen. de form. vit.</hi>
+                  </bibl>
+               </l>
+            </q>
+            <p>London, Printed for and by <hi>Peter Lillicrap</hi> living in <hi>Clarken-well Close.</hi> 1669.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:205464:2"/>
+            <pb facs="tcp:205464:2"/>
+            <head>TO The Right Worshipful Sr. <hi>Philip Musgrave</hi> Knight and Baronet,<note place="margin">Jungat Epi<g ref="char:EOLhyphen"/>stola quos junnit con<g ref="char:EOLhyphen"/>cordia, imo charitas non dividat quos Christi nectit amor, <hi>Hie<g ref="char:EOLhyphen"/>ron.</hi> in Pro<g ref="char:EOLhyphen"/>verb.</note> Sr. <hi>Thomas Strickland</hi> Knight, Doctor <hi>Thomas Wharton, Richard Brathwait,</hi> and <hi>John Otway</hi> Esquires; Captain <hi>George VVharton,</hi> Mr. <hi>Edward Jack<g ref="char:EOLhyphen"/>son</hi> Merchant, Mr. <hi>Nicolas Jack<g ref="char:EOLhyphen"/>son</hi> Mercer, <hi>&amp;c.</hi> My worthy Coun<g ref="char:EOLhyphen"/>try-men of <hi>VVestmerland. Brotherly Love be multiplyed.</hi>
+            </head>
+            <p>IT is the saying of a wise man (right Worshipful and wor<g ref="char:EOLhyphen"/>thy Compatriots) that Preaching and Printing are excel<g ref="char:EOLhyphen"/>lent means to beget knowledge and increase faith:<note place="margin">Dr. <hi>Hug s.</hi>
+               </note> the one like ashour of rain, waters for the present; the other like snow, lyes longer on the ground, and may speak when the <hi>Author</hi>
+               <pb facs="tcp:205464:3"/> cannot. This Sermon, this Child of mine, hath laid in its Cradle dormant, dumb a long space; for the bringing forth, and making it speak publickly to the world, I have been besought as long, <hi>(Si liceat magnis componere parva)</hi> as <hi>Troy</hi> was be<g ref="char:EOLhyphen"/>sieged; and now at last overcome as that was.</p>
+            <p>
+               <note place="margin">Omnia per<g ref="char:EOLhyphen"/>versae pos<g ref="char:EOLhyphen"/>sunt cor<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>umpere mentes <hi>O<g ref="char:EOLhyphen"/>vid.</hi>
+               </note>It hath but one Father, yet so many God-fathers as were pre<g ref="char:EOLhyphen"/>sent at the initiation or presentation in the Church; who (I make no question) will defend it against the fiery darts of furi<g ref="char:EOLhyphen"/>ous tongues; being it hath been their desire to bring it upon the Stage of the World, which is full of malignant censurers, and si<g ref="char:EOLhyphen"/>nister Interpreters; meeting now and then, here a <hi>Bavius,</hi> and there a <hi>Maevius,</hi>
+               <note n="[a]" place="margin">Virg. Bucol.</note> as its elder Brother did,<note n="[b]" place="margin">Aspi<g ref="char:EOLhyphen"/>cies illic positos ex ordine fra<g ref="char:EOLhyphen"/>tres. quos studium cunctos evigelavit idem. <hi>Ovid. Trist. Eleg.</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>1.</note> which I lately put forth,<note n="*" place="margin">Yet I will say of them as <hi>Cornelia</hi> said of her <hi>Cracchi, sunt ornamenta mea.</hi>
+               </note> but my comfort is it hath had the approbati<g ref="char:EOLhyphen"/>on of as good Schollars, as the most critical <hi>Aristarchus</hi> amongst them: and will be supported by the first receivers of it, whose Patronage I am sure I have, being importun'd by the most of you and them, to put in Print that which I then uttered; for the good of my absent as well as present Country-men: whose eager<g ref="char:EOLhyphen"/>ness in the business was such, that some of them borrowed my co<g ref="char:EOLhyphen"/>py, with a pretence to read it over, and ruminate upon it, but they had it to the press. I hearing of it fetch'd it thence, as fear<g ref="char:EOLhyphen"/>ing to b toss'd upon the dangerous seas of the world, with the stormy blasts of mens different opinions, and various conceipts.<note n="[c]" place="margin">Aestu<g ref="char:EOLhyphen"/>at, &amp; lento miserima turba veneno liquitur, ut giacies incerto saucia sole.</note>
+            </p>
+            <p>Upon which they desired my loving and learned friend, Mr. <hi>Hudson</hi> of <hi>Putney,</hi> to borrow it of me, only to see it, which I sent him, and he approving of it, it was carryed once more to
+<pb facs="tcp:205464:3"/> the Press, and part of it composed, which I hearing of acci<g ref="char:EOLhyphen"/>dentally, obstructed the business once more,</p>
+            <p>Yet at last, I was had to the Press my self, and pressed so hard that I yeilded to the efflagitations of divers worthy Persons amongst you, especially my loving friend and Brother Steward Mr. <hi>Edward Jackson,</hi>
+               <note n="[d]" place="margin">Hoc responso. Parve (nec invideo) si<g ref="char:EOLhyphen"/>neme liber ibis in orbem</note> to whom I surrendred my copy to be at their disposal. Insomuch that as the Prophet <hi>David</hi> saith<note n="[e]" place="margin">Psal. 75.7.</note> Promotion cometh neither from the <hi>East,</hi> nor from the <hi>West,</hi> nor yet from the <hi>South;</hi> so may I say of the promotion of this Sermon to be Printed, coming only from (the <hi>North</hi>) my North country friends; which now being come forth by their means, if it please any, let them have the thanks, if not, let them have the blame.</p>
+            <p>Onely this I must tell you (by way of digression) that as the<note n="[f]" place="margin">Nec aranearum textus ideo melior, qui<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>x se fila gi<g ref="char:EOLhyphen"/>nuntur, nec noster ideo vilior quia ex alienis libemus, ut ape<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Lipsi<g ref="char:EOLhyphen"/>us.</note> Spider workes his web out of his own bowels, and the Bee gathers honey of every flower,<note n="[g]" place="margin">Floriseris ut apes in saltibus omnia libant. <hi>Lucretius.</hi>
+               </note> so Divines make their Sermons after both fashions: I am for the latter sort, picking out of every Author those things which I thought fit for my pur<g ref="char:EOLhyphen"/>pose, and as a reverend Bishop said<note n="[h]" place="margin">B. King. Ep. ded. his lect. on <hi>Jonas.</hi>
+               </note>
+               <hi>Where I liked the waters of other mens wells, I drank of them deeply:</hi> so where the flowers were the sweetest, I gathered most plentifully. insomuch that as he said<note n="[i]" place="margin">idem ibidem.</note>
+               <hi>nihil nostrum &amp; omnia, synony<g ref="char:EOLhyphen"/>mous</hi> to that of <hi>Democritus</hi> junior out of <hi>Macrobius,</hi>
+               <note n="[k]" place="margin">
+                  <hi>Dem.</hi> to the Reader.</note>
+               <hi>Omne meum &amp; nihil meum.</hi>
+            </p>
+            <p>Such as it is (my loving Country men) as you have brought it fourth, so I pray bring it up, and maintain it against all those <hi>Qui Lectorum nomen ferunt, &amp; Lictorum naturam gerunt.</hi> Whose mouths are sheathes for <hi>Hanuns</hi> raisors<note n="[l]" place="margin">2 Sa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 10.4.</note> wherewith they shave and cut off what they please, to disfigure the most
+<pb facs="tcp:205464:4"/> holy intents. For (as I said) this Sermon was mine, now tis yours; let my words in it, be your deeds out of it; it was calcu<g ref="char:EOLhyphen"/>lated for the Meridian of <hi>Westmerland;</hi> let them that heard it, heed it; them that heard it not read it, for whose sake it be<g ref="char:EOLhyphen"/>ing now printed in <hi>Lines,</hi> it may be the better imprinted in their <hi>Lives,</hi> consider what I say, <hi>and the Lord give you un<g ref="char:EOLhyphen"/>derstanding in all things. 2</hi> Tim. <hi>2.7.</hi>
+            </p>
+            <closer>
+               <signed>Yours and his Countries servant <hi>John Crosbie.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <head>Ad Lectorem.</head>
+            <p>SI quid dixi quod placeat, habeat Lector gratiam Deo propter me, Si quid, quod non placeat, ignos<g ref="char:EOLhyphen"/>cat mihi propter Deum, &amp; male dictis, det veniam propter benè dicta, Lud. Vives in Aug. de Civitate Dei, lib. ult. cap. ult.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:205464:4"/>
+            <head>PHILADELPHIA: OR Brotherly Love A Sermon Preached at St. <hi>Michaels</hi> Crooked-lane <hi>London,</hi> at <hi>Westmerland</hi> meeting, <hi>Novemb.</hi> 30. 1653:</head>
+            <div type="part">
+               <head>
+                  <bibl>
+                     <hi>1</hi> Peter <hi>3.8.</hi>
+                  </bibl> Love as Brethren.</head>
+               <p>
+                  <hi>WHatsoever things are written are written for our learn<g ref="char:EOLhyphen"/>ing</hi> saith the Apostle, <hi>Rom.</hi> 15.4.<note place="margin">
+                     <hi>Our Apostle in his second Epistle ur<g ref="char:EOLhyphen"/>geth this tex<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> four several times.</hi> 1 Pet 1.7. cap. 1.22. 2 Pet. 2.17: &amp; cap. 3.8. <hi>S. Paul, in his writngs thrice</hi> Rom. 12.10. 1 Thes. 4.9. Heb. 13.1.</note> And if with stu<g ref="char:EOLhyphen"/>dious and attentive minds we read over the Sa<g ref="char:EOLhyphen"/>cred and holy Scriptures, we shall easily perceive that
+<pb n="2" facs="tcp:205464:5"/> amongst all the vertues and fruits of the Spirit, our Lord and Saviour Jesus Christ exhorteth us to none so much, as <hi>Love</hi> and <hi>Charity:</hi> by this (saith Christ) <hi>shall all men know that you are my</hi>
+                  <note n="[a]" place="margin">Si pro Christianis discipulis Christi habe<g ref="char:EOLhyphen"/>re volumus oportet, ut nos mutuò quod ardenti<g ref="char:EOLhyphen"/>ssime diligamus, <hi>viz.</hi> non verbo solum neque lingua sed opere &amp; veritate <hi>1 Joh. 3.18.</hi> Piscat in loc.</note>
+                  <hi>Disciples if ye love one another,</hi> Jo. 13.35. As if he had said, other mens servants are known by their Masters badges and cognisances, I will also that you which are my Disciples be known by my badge and cognisance; that is, <hi>that ye love one another.</hi>
+               </p>
+               <p>
+                  <note place="margin">
+                     <hi>Rom.</hi> 12.10. 1 <hi>Cor.</hi> 14.1. 2 <hi>Cor.</hi> 2, 8. <hi>Gal.</hi> 5.13. <hi>Eph.</hi> 4.2. <hi>Phil.</hi> 2.2. <hi>Colos.</hi> 2.2. 1 <hi>Tnes.</hi> 3.12. 2 <hi>Thes.</hi> 1.3. 1 <hi>Tim.</hi> 6.11. 2 <hi>Tim.</hi> 2.22. <hi>Philom.</hi> 9. <hi>Heb.</hi> 13.1. 1 <hi>Pet.</hi> 4.8. 2 <hi>Pet.</hi> 1.7. 1 <hi>Jo.</hi> 4.16. 2 <hi>Jo.</hi> 1.3.</note>And as our Saviour did harp much upon this string, so did the Apostles in all their writings, insomuch that almost there is never an Epistle, but it hath some mention of Love and Charity one towards another. Wherefore our Apo<g ref="char:EOLhyphen"/>stle in this Chapter where my text is, after he had exhorted the Husband and the Wife to their particular duties, one towards another, he proceeds to exhort all men to gene<g ref="char:EOLhyphen"/>al duties in the eight verse, <hi>Finally be yee all of one mind,</hi> one suffer with another, <hi>Love as Brethren.</hi>
+               </p>
+               <p>In which three words consider two things, the matter, and the manner, the matter <hi>Love,</hi> the manner <hi>as Brethren.</hi>
+               </p>
+               <p>In the matter observe to whom <hi>Love</hi> doth belong, or who ought to be the object of our <hi>Love.</hi>
+               </p>
+               <p>In regard of the object of our <hi>Love,</hi> it must be to God, and to man: to God principally, to man for Gods sake, to God, as the <hi>Law</hi> hath taught us, <hi>Thou shalt love the Lord thy God, with all thy Soul, and with all thy might, and with all thy heart</hi> Deut. 6.5 <hi>To man,</hi> as the Lord hath taught us, <hi>thou shalt not avenge nor be mindful of wrong against the Children of thy people, but shalt love thy Neighbor at thy self.</hi> Levit. 19.18.</p>
+               <pb n="3" facs="tcp:205464:5"/>
+               <p>In My Text (beloved) <hi>Love</hi> is not taken for that <hi>Love</hi> which is due unto God, but for that <hi>Love</hi> which every Christian should have one towards another, and therefore saith St. <hi>Bernard,</hi>
+                  <note n="[c]" place="margin">
+                     <hi>Bernard</hi> in Epist.</note>
+                  <hi>Charitas est non quod sibi u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ile quaerit. sed quod multis, Love</hi> seeeketh not that which is profitable to it self but to many; it respects more the publick good then the private: more the good of others, then the good to it self.</p>
+               <p>And by this<note n="[d]" place="margin">Fructus ing<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> &amp; virtuti<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> om<g ref="char:EOLhyphen"/>nisque, pra<g ref="char:EOLhyphen"/>stantia, <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> maxi<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> ca<g ref="char:EOLhyphen"/>pitur, cum in proximum quemque confertur. Cic. lib. <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Ameriti<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note>
+                  <hi>Love</hi> is not understood, only a bare and naked affection without any effects annext unto it, for o<g ref="char:EOLhyphen"/>therwise it were not worthy the name of <hi>Love,</hi> as St. <hi>John</hi> saith, <hi>Whosoever hath this worlds good, and seeth his Brother have need, and shutteth up his compassion from him, how dwel<g ref="char:EOLhyphen"/>eth the</hi> Love <hi>of God in him? My little children let us not</hi> Love <hi>in word, nor in the tongue only, but in deed and in truth,</hi> 1 Jo. 3.17.18.</p>
+               <p>Wherefore to know what this <hi>Love</hi> is, let us know that it is a vertue whereby we love others dearly: and what o<g ref="char:EOLhyphen"/>thers our blessed Saviour (in the tenth of the Gospel by St. <hi>Luke,</hi>
+                  <note place="margin">Charitas est mutuus amor hominis ad Deum cujus objicitum ē Deus propter se dilectus, &amp; prox mu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> propter Deum <hi>d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 2<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> Deum quast. <hi>23.</hi> art. <hi>1.</hi>
+                  </note>) answered the expounder (that tempted him) at large, by the example of a certain man, that went down from <hi>Jerusalem</hi> to <hi>Jericho,</hi> that was robbed and wounded, and left half dead: and a <hi>Priest</hi> and a <hi>Levite</hi> passed both by him, and gave him no comfort: then a <hi>Samaritane</hi> came and had compassion on him, and bound up his wounds, and poured in Wine and Oyle, and set him on his beast, and had <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to an Inne, and took care on him: <hi>which now of these three</hi> (saith our Saviour) <hi>was neighbor unto him that fell amongst the Thieves?</hi> and he said, <hi>he that showed mercy on him.</hi> From whence we may learn by the words of our
+<pb n="4" facs="tcp:205464:6"/> Saviour himself, that<note n="[e]" place="margin">Qutcun<g ref="char:EOLhyphen"/>que quavis ratione tibi adjunctus fuerit eum scriptura vo<g ref="char:EOLhyphen"/>cat <hi>REACH</hi> proximum; I<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>q<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>um praecipit Do<g ref="char:EOLhyphen"/>minus dilige<g ref="char:EOLhyphen"/>re pro<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>emum intelligen<g ref="char:EOLhyphen"/>dum ipsum p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> quem vis quac<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n<g ref="char:EOLhyphen"/>que ratione natu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> adjunctum diligamus <hi>Jansen</hi> comment in <hi>Luc. 6.</hi> Rec. Haebraeis <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> Graecis &amp; Latin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> proximus est proprius qui tibi qualibet ratione conjunctim fuerit ibid, <hi>David</hi> did so <hi>Psal. 35.12.</hi>
+                  </note> every one that is joyn'd unto us by any occasion, should be our Neighbour, and theeefore to be loved, his necessity being objected to our eyes, and thereby made capable of our benefits: so that those whom we must love, are all those that stand in need of love, Strangers, Friends, Acquaintance, yea our very Enemies as well as these, according to to that of our Saviour <hi>Mat.</hi> 5.44. <hi>I say unto you</hi>
+                  <note n="[f]" place="margin">It is not in our power not to have Enemies, but it is our power not to hate Enemies, <hi>Chrysost.</hi> Luke <hi>
+                        <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.27.</hi> Disce diligere <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nim<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m sivis cavere iuimicum <hi>Aug.</hi> in <hi>Psal. 100.</hi> Q<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> professo hostes nostris<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>, scoundum scripturam proximi sunt nob<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> sunt proxi<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> q<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>in inimici. <hi>Jaosen</hi> comment in <hi>Mat. 5.</hi> Prox<g ref="char:EOLhyphen"/>imi sumus condit <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ferr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nae naivil <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, &amp; f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aire spe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>stis haridit <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>is <hi>Gerad.</hi> medi<g ref="char:EOLhyphen"/>tat,</note> Love <hi>your Enemies, bless them that Curse you, do good to them that Hate you, pray for them that Hurt you:</hi> and he gives a reason of it in the 46th. verse. <hi>For if you love them that love you what reward have you? even the</hi> Publicans <hi>and</hi> Sinners <hi>do the same things,</hi> as if you should have said, if you love but only those who are your lovers and friends, you are no better then <hi>Publicans</hi> and <hi>Sinners,</hi> for so do they <hi>Love</hi> one another.</p>
+               <p>As rhat is the hottest fire which warmeth them that are furthest of, so that is the most fervent and perfect <hi>Love</hi> which forsaketh not, though they be never so far of, neither friend not so, that may be beloved, but imbraceth all in him who never forsaketh unless he be forsaken, even <hi>Jesus Christ.</hi>
+               </p>
+               <p>But this doctrine may seem strange unto flesh and blood, that we should love all men, even our enemies; yet I be<g ref="char:EOLhyphen"/>seech you let us rather obey the commandements of Christ<note n="[g]" place="margin">Virtu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> est coram ho<g ref="char:EOLhyphen"/>minibus inimi<g ref="char:EOLhyphen"/>cos sed virtus coram Deo di<g ref="char:EOLhyphen"/>legere, quia hoc solum De<g ref="char:EOLhyphen"/>nosacrificium accipit quod ante occulos ejus in altari charitatis flamma incendit, <hi>Greg.</hi> in past. <hi>Exod. 23.4.</hi>
+                  </note> to love all men, even our enemies, then to yeild unto
+<pb n="5" facs="tcp:205464:6"/> the inticements of the fr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>il and unstable flesh, which by its own Nature is alwaies proue unto evil, <hi>for he that i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> in the flesh cannot please God.</hi> Rom. 8.8.</p>
+               <p>
+                  <hi>Dulce est pacis nomen, &amp; res ipsa salutaris</hi> (saith the Orator<note n="h" place="margin">Tul. 2 Phil.</note> the very name of Peace it sweet, and the thing it self wholesome, but especially in the Church <hi>Love</hi> and concord is to be desired.</p>
+               <p>First of all, among the Teachers of the Word, for<note n="i" place="margin">Quasi tu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a exalit<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> vo<g ref="char:EOLhyphen"/>cem tuam in<g ref="char:EOLhyphen"/>quit, <hi>Isa. 8.1.</hi> &amp; si <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> certum sonum taba dederit, quis apparabitur ad bellum, <hi>1 Cor. 14.8.</hi>
+                  </note> di<g ref="char:EOLhyphen"/>sention amongst Teachers produceth divers doubts in the hearts of many, hinders the service of God, and the course of the Gospel to have free passage amongst us.</p>
+               <p>Secondly,<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> Hom. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ind.</note> how much available <hi>Love</hi> and concord is in Common-wealth, the agreement of Citizens and Coun<g ref="char:EOLhyphen"/>trymen and how unprofitable is discord, (which <hi>Livie</hi> in the Common-wealth of <hi>Rome</hi> calls<note n="l" place="margin">Discordia <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> urbit, patrum ac plebis c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rtaminia, an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> nobis imperis, nec <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> libertatis testimo<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>r, <hi>Liv. 1 <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ist. R<gap reason="illegible" resp="#keyers" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap>
+                        <gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>o 41 Dei.</hi>
+                  </note> a povison) late experi<g ref="char:EOLhyphen"/>ence (in these our days) hath plainly manifested, the good<g ref="char:EOLhyphen"/>ness of the one, and the badness of the other.</p>
+               <p>Thirdly, how profitable it is in private families, in which (<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s in the Church or Common-wealth) that saying of <hi>Austin.</hi> is verified,<note n="m" place="margin">Sicut cor<g ref="char:EOLhyphen"/>poris, membra per spiritum id <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> con<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>gunium ita vera cor<g ref="char:EOLhyphen"/>poris mystici membra per spiritum sanctum charitatis v<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ncula <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, <hi>Gerard. Med.</hi> Tale bonum &amp; bonum pacis ut in rebus creatis nihil gratios<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> fola<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t ami<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>, dip<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> di<g ref="char:EOLhyphen"/>lectatibus concupisci, nihil utilius possideri Spiritus enim huminus &amp;c. <hi>August. de Civitat. Dei.</hi>
+                  </note>
+                  <hi>Spiritus humanus nunquam vivi<g ref="char:EOLhyphen"/>ficat membra nisi fuerint unit<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e sie Spiritus suncta <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>unquam vivificat membra Ecclesiae, nisi fuerint concordia <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> The Spirit of a man doth not qui<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ken the members of the Church, that are not Cemented with <hi>Love</hi> and Concord.</p>
+               <pb n="6" facs="tcp:205464:7"/>
+               <p>Lastly, how ought it to flourish among all men? since Christ doth r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>peat that precept, as the onely and chief pre<g ref="char:EOLhyphen"/>cept before his passion, calling it his Commandement a<note n="[n]" place="margin">Facilé declaratur quomodo no<g ref="char:EOLhyphen"/>vum sit di<g ref="char:EOLhyphen"/>lectionis prae<g ref="char:EOLhyphen"/>ceptum à Christo da<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>um <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> enim <hi>Cyrillus</hi> fra<g ref="char:EOLhyphen"/>trem diligendum esse ait, ficut se ipsum Christus, autem magis nos quam scipsum a<g ref="char:EOLhyphen"/>mov<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t, novas atque auditus dilectionis modus, nihil omnino dilectioni fratrum an<g ref="char:EOLhyphen"/>teponentas, non gloriam, non divitias, non corporis hujus mortem, si opus fuerit pro sa<g ref="char:EOLhyphen"/>luto fratris mori quod a beatis Salvatoris discipulis factitatum esse videmus. <hi>Iansen</hi> in loc.</note> new Commandement, and a mark whereby his Disci<g ref="char:EOLhyphen"/>ples might be discerned from the ungodly, <hi>John</hi> 13.24. Therefore those that desire to be accounted Christs disci<g ref="char:EOLhyphen"/>ples, let them carry this mark in their fore-heads<note n="[o]" place="margin">Non enim e discentionis Deus sed pacis <hi>1 Cor. 14.<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>3.</hi>
+                  </note> let them <hi>Love one anothe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> and not carry the mark of the Beast, which is Hellish and Divelish dissention. And thus much of those we must <hi>Love.</hi> I come now to the second circum<g ref="char:EOLhyphen"/>stance, in what it consists.</p>
+               <p>
+                  <note place="margin">Nec habet a<g ref="char:EOLhyphen"/>liquid viri<g ref="char:EOLhyphen"/>di<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>atis boni operis si non manet in ra<g ref="char:EOLhyphen"/>dice charita<g ref="char:EOLhyphen"/>tis in homine multis modis intelligitur charitas, cler<g ref="char:EOLhyphen"/>mentia, sua<g ref="char:EOLhyphen"/>vi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ate, pati<g ref="char:EOLhyphen"/>entia, invidentiae &amp; aemuiationis vacuitate, &amp; in juriarum oblivione, Clemens Alex<g ref="char:EOLhyphen"/>and. Sicut in regali pretexiâ, illi flores &amp; colores praeciosi sunt qui hanc conficiunt, chlamyd<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n; Itidem &amp; hic, illa sunt prafiosa virtut<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s, qua charitatem contintant Chrysost. Hom. <hi>51.</hi> de diversis.</note>St. <hi>Gregory</hi> saith, <hi>Ut multi arboris rami ex una radice prodeunt: sic multae vertutes ex una charitate generantur?</hi> as many bows spring from the same root: so many vertues proceed from this one vertue <hi>Charity,</hi> Therefore under the name of <hi>Charity</hi> amongst many others six things are com<g ref="char:EOLhyphen"/>prehended.</p>
+               <p>
+                  <hi>First</hi> to <hi>Love, Secondly</hi> to council, <hi>Thirdly</hi> to releive, <hi>Fourthly</hi> to bear, <hi>Fifthly</hi> to pardon, <hi>Sixtly</hi> to teach by good example of life: and whosoever wants any of these, wants some part of <hi>Love.</hi>
+               </p>
+               <p>For some will say they love their Neighbour, but that
+<pb n="7" facs="tcp:205464:7"/> hath but only the name, it wants much of the Nature of <hi>Love:</hi> others <hi>Love</hi> and give good counsel, and releive not their needy Brethren: others <hi>Love,</hi> give good counsel, and releive: yet they bear not their infirmities: they fol<g ref="char:EOLhyphen"/>low not the counsel of the Apostle,<note n="[q]" place="margin">Nibi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> sic probat a<g ref="char:EOLhyphen"/>micum que<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> admodum o<g ref="char:EOLhyphen"/>neris amic supportatis nemo nisi pe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> amicitiam cognoscitur, &amp; ideo amicorum mala fermiter sustinemus, quia bona eorum nos delectand, &amp; tanent August. <hi>12.</hi> quastion.</note> bear ye one a<g ref="char:EOLhyphen"/>nothers burthen, and so fulfill the law of Christ. <hi>Gal.</hi> 6.2. Others do <hi>Love,</hi> counsel, releive, and bear: but they do not mercifully pardon those that have injur'd them: and lastly, there be some that have all the aforesaid effects and vertues of <hi>Love,</hi> but they edify not their Neighbour, either by words or<note n="[r]" place="margin">Nullum ego consilium milius arbitror, quam si exam<g ref="char:EOLhyphen"/>plo suo fratrem docere studeas, qua oportit fieri, provocans cum ad meliora, &amp; cons<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>lens <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i, ne{que} verba, ne{que} lingua, sed opere &amp; veritate Greg. lib. <hi>10.</hi> moral. Sic luce<g ref="char:EOLhyphen"/>at lux vestra corum h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>minibus &amp; h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>c autem fir cum apparet miserecordea in affectu beniguitas in vultis, humilitas in habitu, modestia in habitatione, patientia in tribulatione. Hugo de claust. enim. lib. <hi>3.</hi>
+                  </note> good example of life, which is the best and noblest of all the duties of <hi>Love.</hi>
+               </p>
+               <p>According to this order, let every man examine him<g ref="char:EOLhyphen"/>self, that he may understand what he hath, and what is wanting to him in this vertue: For we may say, he that <hi>loveth,</hi> is in the first degree of <hi>Love,</hi> he that <hi>loveth and gi<g ref="char:EOLhyphen"/>veth</hi> counsel, is in the second: he that <hi>loveth, giveth coun<g ref="char:EOLhyphen"/>sel, and releiveth,</hi> in the third, he that <hi>loveth, giveth coun<g ref="char:EOLhyphen"/>sel, releiveth, and suffere h,</hi> in the fourth, he that <hi>loveth, counselleth, releiveth, suffereth, and pardoneth,</hi> in the fifth, but yet there wants another step of this Ladder unto Hea<g ref="char:EOLhyphen"/>ven, else he will scarce come there, and that is <hi>good exam<g ref="char:EOLhyphen"/>ple</hi> of life: for every man should <hi>Love, give good counsel, re<g ref="char:EOLhyphen"/>leive, suffer, pardon, and teach as they are able by Godly</hi>
+                  <note n="[s]" place="margin">Quan<g ref="char:EOLhyphen"/>tis exemplum vera humanitatis &amp; perfecta charitatis ostenderis cum tantis pro tantis atorna pramia possidebis, Leo in Serm.</note>
+                  <pb n="8" facs="tcp:205464:8"/>
+                  <hi>examples,</hi> and then he hath ascended the last step, and stand<g ref="char:EOLunhyphen"/>eth upon the uppermost stair, that reacheth unto heaven: yea what shall I say more? why should I recount all the blessed and remarkable fruits of this <hi>Love?</hi>
+                  <note n="[t]" place="margin">Haec in adversitate tolerat, in prosperitate temperat in daris passio<g ref="char:EOLhyphen"/>nibus fortie est: in bonis operi<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, <gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ilaris est, in tem<g ref="char:EOLhyphen"/>pora lib. di<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>tissima in hospiralitate latissima in<g ref="char:EOLhyphen"/>fer bonos fra<g ref="char:EOLhyphen"/>tres latissima inter falsos sa<g ref="char:EOLhyphen"/>pientissima In abel per sacri<g ref="char:EOLhyphen"/>ficim laeta in No<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> per dilu<g ref="char:EOLhyphen"/>vium secura Abrahae, pe<g ref="char:EOLhyphen"/>rigrenatione fidelissima in Davidis tri<g ref="char:EOLhyphen"/>kulatione mitissima, &amp;c. Aug de laude Charitatis</note>
+                  <hi>In Chari<g ref="char:EOLhyphen"/>tate pauper est dives, fine Charitate omnis dives est pauper,</hi> saith St. <hi>Austine,</hi> In <hi>Love</hi> or Charity, every poor men is rich, without Charity every rich man is poor, and again saith the same Father,<note n="*" place="margin">August. tract. <hi>9</hi> Joan.</note>
+                  <hi>si desit charitas frustra habentu<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> caetera, si adsit recte habentur omnia.</hi> If Charity be wanting; nothing is present, if Charity be present, nothing is wanting; It suffers in adversity, it is mild in prosperity, it is strong in works, large in hospitality: it rejoyceth amongst good Brethren, and is most patient amongst false: It was glad in <hi>Abel</hi> through his Sacrifice, in <hi>Noah</hi> by the flood: faith<g ref="char:EOLhyphen"/>ful in the perigrination of <hi>Abraham,</hi> most comfortable in the wrongs against <hi>Moses,</hi> most gentle in the trouble of <hi>Da<g ref="char:EOLhyphen"/>vid:</hi> free in <hi>Paul</hi> to reproove, humble in <hi>Peter</hi> to obey: humane in Christians to confess, divine in Christ to pardon:<note n="[v]" place="margin">Nescio quid majas in laude tua dicere pollum quam ut Deum de caelo traheres, &amp; ho<g ref="char:EOLhyphen"/>minem ad caelum elevares magna virtus tua, &amp; parte us{que} ad hoc humiliaretur Deus, &amp; us{que} ad hoc exalteretur homo Hugo de <gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aude Charitatis.</note> what shal I say more of the fruits and effects thereof? <hi>Si mihi centum linguae <gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ra{que} centum,</hi> if I had a hundred tongues to speak, and as many mouths to utter, as the Poet saith, or as the Apostle faith, 1 <hi>Cor.</hi> 13.1. <hi>If I had the tongues of Men and Angels, and had not</hi> Love, I <hi>were as sounding Brass, or as a tinckling cymbal.</hi> And so I come to the Second ge<g ref="char:EOLhyphen"/>neral part of my text, that is the manner as we ought to <hi>Love as Brethren.</hi>
+                  <note n="[w]" place="margin">Ipsa enim est anima literarum prophetiae virtus, sacramenoorum salus, sapientiae stabilimentum, fidei fructas d<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tie pauperum, vita morientium August. <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n loc. ibid.</note>
+               </p>
+            </div>
+            <div n="2" type="part">
+               <pb n="9" facs="tcp:205464:8"/>
+               <head>
+                  <hi>Love as Brethren.</hi> The Second general Part.</head>
+               <p>THe word <hi>(Brethren)</hi> hath divers acceptations in holy Scripture, modern writers reduce them to three heads, there are (say they) <hi>Brethren</hi> by <hi>Race,</hi> by <hi>Grace,</hi> and by <hi>Place.</hi>
+               </p>
+               <p>By <hi>Race,</hi> and that, first by birth as<note n="*" place="margin">Gen. 29.26</note>
+                  <hi>Jacob</hi> and <hi>Esau,</hi> se<g ref="char:EOLhyphen"/>condly by blood, as<note n="[y]" place="margin">Gen. 12.7.</note>
+                  <hi>Abraham</hi> and <hi>Lot,</hi> so our blessed Saviour is said to have Brethren and Sisters, <hi>Mark.</hi> 6.3. <hi>Mat.</hi> 12.47. And <hi>Jacob</hi> called <hi>Labans</hi> Sons his <hi>Brethren, Gen.</hi> 29.4.</p>
+               <p>By <hi>Grace,</hi> and that is either common or special naturall or spiritual, by generation or regeneration; In the former respect all men are Brethren, <hi>God hath made of one blood all Nations of Men, Acts</hi> 1.7.26. by the latter respective are all Brethren by Christ, <hi>Heb.</hi> 2.11. <hi>Coloss.</hi> 4.9. <hi>Mat.</hi> 12.50. <hi>Rom.</hi> 8.29.</p>
+               <p>By <hi>Place,</hi> thou shalt chuse a King, from among thy <hi>Brethren,</hi> of thine own Nation, not a Stranger <hi>Deut.</hi> 17.15. Unto a stranger thou mayest lend upon Usury, but not unto thy <hi>Brethren, Deut.</hi> 23.20. <hi>Rom.</hi> 9.4.</p>
+               <p>But to make it more plain unto you (though briefly) there are five sorts of Brethren in the Scrip<g ref="char:EOLhyphen"/>ture in all which we are joyn'd together in <hi>Love,</hi> The 1 sort
+<pb n="10" facs="tcp:205464:9"/> are<note n="[z]" place="margin">Conser<g ref="char:EOLhyphen"/>vanda est hu<g ref="char:EOLhyphen"/>manitas, si homines recté dici velimus Id autem ip<g ref="char:EOLhyphen"/>sum conser<g ref="char:EOLhyphen"/>vare huma<g ref="char:EOLhyphen"/>nitatem quid aliud est quam diligere hominem, quia h<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mosit, &amp; idem quod nos sumus. Lactan. firm. divin. institat. lib. <hi>6.</hi> c. <hi>10.</hi> Amico conterranti. contribulis, popula<g ref="char:EOLhyphen"/>res, sodales commilitones, convictores, familiares, proximi, sunt omnes fratres. sic dis<g ref="char:EOLhyphen"/>cipali <hi>1 Chron. 25, 7.9.10.</hi> &amp; similes vel, aequales <hi>Job. 30.29. Pro. 18.9.</hi>
+                  </note>
+                  <hi>humanitate, brethren,</hi> in common humanity, as in <hi>Gen.</hi> 9.5. There the Lord saith, at the hand of a man, e<g ref="char:EOLhyphen"/>ven at the hand of a mans <hi>brother,</hi> will I require the life of man: after which acceptation, the <hi>Hebrews</hi> in the old Law, and the Christians in the Gospel are called <hi>brethren:</hi> so are all those that are born of <hi>Adam,</hi>
+                  <note n="[a]" place="margin">Num quid non Pater nun<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> omnium nostrum Namquid non Deus unus creavit no<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Ma<g ref="char:EOLhyphen"/>lac. <hi>2.10.</hi>
+                  </note> of whom is of one stock and blood all mankind was made, 1 <hi>Chro.</hi> 5.11.</p>
+               <p>Secondly <hi>affinitate, brethren,</hi> by affinity those that come of the same line, though it be of divers degrees to the <hi>He<g ref="char:EOLhyphen"/>brews</hi> called their cousins and kinsmen, <hi>brethren,</hi> as<note n="[b]" place="margin">Aresti<g ref="char:EOLhyphen"/>nus ad fra<g ref="char:EOLhyphen"/>trem dixit reconcilia<g ref="char:EOLhyphen"/>tum, memi<g ref="char:EOLhyphen"/>neris te dis<g ref="char:EOLhyphen"/>sentionis, me reconciliationis fuisse Autori. Stob. Serm. <hi>82.</hi>
+                  </note>
+                  <hi>A<g ref="char:EOLhyphen"/>braham</hi> to appease and stay the debate between his Heards<g ref="char:EOLhyphen"/>men and <hi>Lots</hi> (his Nephew) calleth <hi>Lot</hi> (his Brothers Son) <hi>brother. Let there be no strife between us, and our Heardmen, for we are brethren.</hi> Gen. 13.8.</p>
+               <p>Thirdly, <hi>Consanguinitate,</hi>
+                  <note n="[c]" place="margin">Quis a<g ref="char:EOLhyphen"/>micur est quam frater fratri, aut quem alie<g ref="char:EOLhyphen"/>num fidum i<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>venias si tui<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> hostis fuerit? ut Mycipsa dixit filii suis. Salust de bello Ju<g ref="char:EOLhyphen"/>gurthino. Non ego te, vita frater amabilior, aspiciam post hac. Catul. ad Ortal.</note>
+                  <hi>brethren</hi> in blood, and consanguinity, who came of the same Parents, and have the same Father and Mother, as <hi>Joseph</hi> and <hi>Ben<g ref="char:EOLhyphen"/>jamin, &amp;c.</hi>
+               </p>
+               <p>Fourthly, <hi>Christianitate Brethren</hi> in Christianity; and so are all Christians called brethren, therefore <hi>Moses</hi> see<g ref="char:EOLhyphen"/>ing
+<pb n="11" facs="tcp:205464:9"/> two Hebrews contend and strive together to reconcile and stay the contention between them, asketh them, why they strove together seeing they were <hi>Brethren, Exod.</hi> 2.12. So in the Gospel by St. <hi>Matthew,</hi> our Saviour speaking of the Scribes and Pharisees unto the multitude, and his Di<g ref="char:EOLhyphen"/>sciples saith, but be not ye called <hi>Rabbies,</hi> for one is your Doctor (to wit Christ) and all ye are <hi>brethren, Mat.</hi> 23.8.</p>
+               <p>Fifthly, and Lastly<note n="[d]" place="margin">vel Pro<g ref="char:EOLhyphen"/>vincia ipsa ex qua orti sumus voca<g ref="char:EOLhyphen"/>tur Patria Unde salusti<g ref="char:EOLhyphen"/>as, his pantam sibi patriam antiquam dixit.</note>
+                  <hi>Patria,</hi> those that are all of one Country are called <hi>brethren:</hi> so the Jews are called among themselves <hi>brethren: Deut.</hi> 15.12. If thy <hi>brother</hi> an <hi>Hebrew</hi> sell himself unto thee, and serve thee six years, even the se<g ref="char:EOLhyphen"/>venth year thou shalt let him go free from thee, he is thy <hi>bro<g ref="char:EOLhyphen"/>ther.</hi> So all we of one county, of<note n="*" place="margin">
+                     <hi>Ma<g ref="char:EOLhyphen"/>rius</hi> or ra<g ref="char:EOLhyphen"/>ther (as some call him) Westmer overthrew the Picts with Roderid their leader, at <hi>Stainemore</hi> so called from a Stone, erected in that place, as a memorial of the Victory, and from this Westmer came the name of Westmerland. An. Christi. 13. <hi>Prideaux</hi> Introduction to reading Histories Pag. 279. and Isaac Sons Chrono.</note>
+                  <hi>Westmerland</hi>
+                  <note n="[e]" place="margin">Camden Brit.</note> (Britanno-brigantes, as learned <hi>Camden</hi> calls us) are <hi>brethren.</hi> Nay all Englishmen are <hi>brethren,</hi> being all of one Nation though not of one affection, as woful experience hath lately taught us for in these late civil uncivil Wars, <hi>brother</hi> hath been against <hi>brother,</hi> as our Saviour foretold long ago: the brother shall betray the brother, and that unto Death, <hi>Math.</hi> 13.12.<note n="[f]" place="margin">Ecce patrem nati perimunt natos{que} parentes. Mutua{que} armati conunt vulnera fratres. Manil. lib. <hi>4.</hi> Acerba fata Romanos agunt, Scelus{que} fratornae nicis, Ut im<g ref="char:EOLhyphen"/>m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>titis fluxit interram Remisacer nepotibus cruor. Hitat. <hi>7.</hi> Ethod. Fraterno primi muduerunt sanguine muri, Lucan. lib. <hi>1.</hi> de bell. civit.</note>
+               </p>
+               <p>This word <hi>Brother</hi> (take it in what sense you will) is a name of much <hi>Love,</hi> as both the Greek word<note n="[g]" place="margin">Adicti<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ne <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, &amp; a pro <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> quasi <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> Constant.</note> (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) and the Latine<note n="[h]" place="margin">Quasi sare alter, Aut. G<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll. lib. <hi>13.</hi> Nect. A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t.</note>
+                  <hi>(frater)</hi> intimates unto us. If it be ta<g ref="char:EOLhyphen"/>ken
+<pb n="12" facs="tcp:205464:10"/> in the first sense,<note n="[i]" place="margin">Secundum Hie<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>onimum August<g ref="char:EOLhyphen"/>um &amp; Theo<g ref="char:EOLhyphen"/>philactum, nomine fra<g ref="char:EOLhyphen"/>tris vel prox<g ref="char:EOLhyphen"/>ime significa<g ref="char:EOLhyphen"/>tur omnis ho<g ref="char:EOLhyphen"/>mo, eo quod ex eodem parente omnis sumus nati, at{que} ad eandem Dei similitudinem facti, &amp; ad e<g ref="char:EOLhyphen"/>andem vocati, haereditatem caelestem. Janse<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Comment. in Mat. <hi>5.</hi> &amp; Luc. <hi>6.</hi>
+                  </note> for common humanity, <hi>homo homi<g ref="char:EOLhyphen"/>ni non est lupus,</hi> one man is not a wolf unto another, being made all of one substance, the body from the earth, and the soul from heaven: and have all one Creator, the true and ever living God, by whom one onely man was created, from whom all should proceed, that the strength of Bro<g ref="char:EOLhyphen"/>therhood might be amongst all, and if we should <hi>Love</hi> as <hi>Brothers</hi> in common humanity onely, it were a motive not to be despised.</p>
+               <p>Or if the Apostle had said <hi>Love</hi> as <hi>kindred,</hi> which is a further knot to tye men together, both by the Law of God and Man; the very name whereof possesseth many with such graceful delight, that they are ready to claim it of those, who are many degrees removed.</p>
+               <p>But natural <hi>Brotherhood</hi> is a more strict tye then that, in<g ref="char:EOLhyphen"/>somuch that nothing is deemed more odious, then those that are conjoyn'd in blood, should be disjoyn'd in affecti<g ref="char:EOLhyphen"/>on.</p>
+               <p>Now if these be of force to plead for <hi>Love</hi> and <hi>Cbarity,</hi> much more is Christians <hi>Brotherhood,</hi> which bindeth men together in the straitest conjunction:<note n="[k]" place="margin">Joh. 1.12.13. Eph. 2.4.</note> having one God for their Father,<note n="[l]" place="margin">Is non potest ha<g ref="char:EOLhyphen"/>bere Deum patrem, qui ecclesiam matrem non habet. Ter<g ref="char:EOLhyphen"/>tul. lib. de a<g ref="char:EOLhyphen"/>nima.</note> one Church for their Mother,<note n="[m]" place="margin">Heb. 2.11. Mat. 12.5.</note> one Christ for their elder <hi>Brother:</hi>
+                  <note n="[n]" place="margin">1 Pet. 1.23. and 25.</note> being all begotten by the immortal seed,<note n="[o]" place="margin">Tit. 3.5.</note> washed by the laver of one new birth,<note n="[p]" place="margin">John. 6.3.5. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> Coll. 2.2.</note> conjoyn'd by the Sinews of the same Faith,<note n="[q]" place="margin">1 Cor. 3.2. Heb. 5.12.</note> nourished by the milk of the same word,<note n="[r]" place="margin">Rom. 5.2. 1 Pet. 1.3.</note> having all the
+<pb n="13" facs="tcp:205464:10"/> same hope of immortality to come: Wherefore the Pro<g ref="char:EOLhyphen"/>phet concludes this <hi>Brotherly Love</hi> unto us, in comparing it to the pretious Oyl, <hi>that ran down upon the board even upon</hi> Aarons <hi>beard, and went down to the Skirts of his cloath<g ref="char:EOLhyphen"/>ing, Psal.</hi> 133.2. For as an Oyntment well compounded and of sweet and odoriferous things cannot but be accept<g ref="char:EOLhyphen"/>able to the sent of all men: So the unity which beginneth at Religion, and stretcheth to the utmost borders of the Church, and Common-Wealth cannot but both please God and all good men, and therefore the Apostle saith, as ye are men, and as ye are Christians, <hi>Love as Bre<g ref="char:EOLhyphen"/>thren.</hi>
+               </p>
+               <p>And let me add one thing more, (as concerning this pre<g ref="char:EOLhyphen"/>sent occasion) that not onely as ye are men, and as ye are Christians, but as ye are<note n="[s]" place="margin">Patria est velut al<g ref="char:EOLhyphen"/>ter quidem Deus, &amp; proximas maximus{que} Pareus quo qui nomen ei imposuit <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> reipsa, non temere patri<g ref="char:EOLhyphen"/>am nomina<g ref="char:EOLhyphen"/>rit, vocabu<g ref="char:EOLhyphen"/>lo quidem patre deducto, pronunciato tamen faemenina terminatione, ut ex utroque parente mixtum esset; At{que} haec ratio insinuat patriam unam ex aequo, ut utrum{que} parentem colendam Esse. <hi>Scob. Serm. 37.</hi> Chari sunt parentes, chari liberi, propinqui, familiares sed om<g ref="char:EOLhyphen"/>nes omnum charitates patria una complexa est, pro qua quis bonus dubitet mortem op<g ref="char:EOLhyphen"/>perere, si ei sit profuturus ic. off. <hi>lib. 1.</hi>
+                  </note>
+                  <hi>Countrymen, Love as Brethren.</hi> This one motive, if there were no other (in my Judgment) might be enough to induce us to <hi>fraternal amity,</hi> for what more dear to a man then his Country, <hi>Lucian</hi> hath a whole Treatise <hi>de encomio patriae,</hi> of the praise of ones own<note n="[t]" place="margin">unicun{que} sua patri<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> charior est, dum supra omnia sulvam fore quaeritur. ubi ab ipsis cunabalis commeratur, feris datum est a<g ref="char:EOLhyphen"/>gros cilves quaerere, hominibus autem patrias super cuncta diligere. Aves ipsae per aero vagantes proprios nidos amant, erratiles ferae ad cubilia dumosa festinant. vo<g ref="char:EOLhyphen"/>luptuosi pisces cavernas per quirunt, cuncta{que} animalia ibi se norunt refugere, ibi lon<g ref="char:EOLhyphen"/>gissima cupiunt aetate constare <hi>Cass. 1. Epist. 20.</hi>
+                  </note>
+                  <hi>Country,</hi> which (he saith) evermore ought to be esteemed and reverenced of all men: showing that whatsoever men do, they ought to do it for the good and honour of their <hi>Country,</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> (saith <hi>Homer</hi> nothing more sweet then ones own <hi>Country,</hi>
+                  <note n="[v]" place="margin">Nemo patriam dili<g ref="char:EOLhyphen"/>git qua mag<g ref="char:EOLhyphen"/>na, sed quia sua, Vlisses ad sua saxa Ithacae prope<g ref="char:EOLhyphen"/>rat, ut Agamemnon ad Mycenerum nobiles miros, Sen de rem fort.</note> insomuch
+<pb n="14" facs="tcp:205464:11"/> that although men be born in a steril and barren soyl, notwithstanding they prefer it before all the splendid Cities or Kingdoms of the World, for as every bird think<g ref="char:EOLhyphen"/>eth her own brood the finest, and every Parent their own off-spring the Fairest: so every man conceiveth his own <hi>Country</hi> to be the pleasantest.<note n="[v]" place="margin">Patria nihil dulcius, nullus locus est domestica side jucundior, charisunt parentes, liberi, proximi qui, familiares sed omnes omnium charitates patria una complexa est, pro qua quis bonus dubitet mortem oppetere si ei profuturus Cic. off. <hi>lib. 1.</hi>
+                  </note>
+               </p>
+               <p>
+                  <note n="w]" place="margin">Durus fuit Ser<g ref="char:EOLhyphen"/>mo (inquit Augustinus) cum Deus dixit <hi>Abrahamo,</hi> Exi est terra tua, ex patris do<g ref="char:EOLhyphen"/>mo, &amp; ex cognatione tua &amp;c. Sertorius dixit se malle Romae igno<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>isissimum civem, quam exulem, omnium aliarum civi atum imperatorem nominare. Plutarch. in Serto<g ref="char:EOLhyphen"/>rio. Et sola est patria poenacarere sua, <hi>Ovid de Trist. lib. 4. Eleg. 8.</hi> Nos patriae fines &amp; dulcia linquimus arva, Nos Patriam fugimus tu Ti<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>yre lent us in umbra for<g ref="char:EOLhyphen"/>mosam resonare, docis Amaryllida silvas Virg. Et eum Patriam misi tunc est periisse putato <hi>(Ovid. de Trist. lib. 3. Eleg. 3.)</hi> &amp; prior &amp; gravior mors fuit illa mihi. <hi>Ovid. de Pont. lib. 1. Eleg. 4. The Jews in their Captivity sung the 137.</hi> Psalm <hi>By the rivers of</hi> Babilon <hi>we sat down and wept when we remembred thee O</hi> Sion, <hi>&amp;c. If I forget thee O</hi> Jerusalem! <hi>Let my righ<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> hand forget her cunning. If I do not remember thee, let my tongue cleave to the roof of my mouth, &amp;c.</hi>
+                  </note>
+                  <note n="[w]" place="margin">Non dabia est Ithaci prudentia, sed tamen optat fumum de patriis posse videre focis. <hi>Ovid. de Pont. lib. 1. Eleg. 4.</hi> Amor Lacaenae erga suam Patriam est observatione digniss. quae cum filium in praelium misisset, &amp; interfectum audivisset: Ideirt<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> (inquit) generam, ut esset, qui pro Patria morte non dubitar<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t occumbere, <hi>Cic. lib. 1.</hi> Tusc. Quaest. Filiae Erichthaei Athenis Regis mortem pro Patria contemplisse dicantur. Cic. Orat. pro Pab. Sestio.</note>And therefore when those that are in authority, pu<g ref="char:EOLhyphen"/>nish malefactors for grand offences, they use to deprive them of their native <hi>Country</hi> by banishment as a punishment of high Nature. <hi>Ovid</hi> had sad experience of this, which made him write his five whole books <hi>de Tristibus,</hi> as he was wherryed away from <hi>Rome</hi> to <hi>Pontus,</hi> the place whither he
+<pb n="15" facs="tcp:205464:11"/> was banished in contemplation of his <hi>Country</hi> saying thus.<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> Hom. odyss. <hi>1.</hi>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, Id odyss. <hi>13.</hi>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. Stob.</note>
+               </p>
+               <q>
+                  <l>Nescio qua natale solum dulcedine cunctos</l>
+                  <l>Ducit &amp; immemores non sine esse sui,</l>
+               </q>
+               <q>
+                  <l>All think their native soyl to be so sweet</l>
+                  <l>That farthest distant they remember it.</l>
+               </q>
+               <p>Nay saith <hi>Lucian</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> the very name of my <hi>Country</hi> is pleasant unto me, yea the smoak of my Country (saith he) is more delight<g ref="char:EOLhyphen"/>some to me then the fire of another, much like that of <hi>U<g ref="char:EOLhyphen"/>lysses,</hi> in <hi>Homer,</hi> who said he prefer'd the smoak of his own <hi>Country</hi> before all the Kingdoms of the World. And you may read in holy Scripture likewise much of this subject, I will instance onely in one particular,<note n="[y]" place="margin">By faith <hi>Joseph</hi> when he died made mention of the departing of the Chil<g ref="char:EOLhyphen"/>dren of Israel <hi>&amp;</hi> gave com<g ref="char:EOLhyphen"/>mandment concerning his bones He. <hi>11.<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>2.</hi>
+                  </note> namely <hi>Joseph</hi> who loved his <hi>Country</hi> so well while he was living, that when he was a dying, he took an oath of the Children of <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>srael</hi> saying, <hi>God will surely visit you, and ye shall carry my <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ones fro<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> hence, and bury me in the Sepulchres of my Fathers, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n my own Country.</hi>
+                  <note n="*" place="margin">Quantum erat O magni) perituro parcere Divi ut saltem patriâ contumularer hu<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Ovid de Tristib. l. <hi>3.</hi> Eleg. <hi>3.</hi>
+                  </note> Gen. last 25. Whom when they had <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mbalmed, they performed his <hi>Will,</hi> as you may read (at <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>our leasure) at large, in the 13th of <hi>Exod.</hi> 19. And <hi>Lu<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>un</hi> seems to give a reason of this same extraordinary <hi>Love</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o ones own <hi>Country,</hi> for (saith he) <hi>Omnibus patria communis <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> water,</hi> our <hi>Country</hi> is the common Mother of us all, and she be our Mother then we are her Sons, and if her Sons <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en <hi>Brethren,</hi> therefore <hi>Love as Brethren</hi>
+                  <note n="*" place="margin">Libri quo{que} sunt fratres e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>usdem Authori<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Aspicies <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s illic ex ordine fratres, Quos studium cunctos evigi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>avit idem Ovid. de Trist. <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>g. <hi>1.</hi> lib. <hi>1.</hi> Quarebam fratres, exceptis scilicet illis, Quos suos optaret non geu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>isse <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ens. Idem Eleg. <hi>1</hi> lib. <hi>3.</hi>
+                  </note>.</p>
+               <pb n="16" facs="tcp:205464:12"/>
+               <p>And thus I have show'd you, that not only as we are <hi>Men,</hi> and as we are <hi>Christian-men,</hi> but as we are <hi>Country-men</hi> we ought to <hi>Love as Brethren,</hi> let us now see how we may <hi>Love as Brethren.</hi>
+               </p>
+               <p>
+                  <note place="margin">How to Love as Brethren.</note>To <hi>Love</hi> as a <hi>Brother,</hi> is to <hi>Love.</hi> 1. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> that is,<note n="[z]" place="margin">
+                     <hi>1 Pet 1.22</hi> Multis simulatio<g ref="char:EOLhyphen"/>num involu<g ref="char:EOLhyphen"/>eris tegitur, &amp; quasi v<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>lis quibus<g ref="char:EOLhyphen"/>dam ob<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>endi<g ref="char:EOLhyphen"/>tur unus<g ref="char:EOLhyphen"/>quis{que} natu<g ref="char:EOLhyphen"/>ra, fro<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s, oculi, vultus persaepe mentiuntur Cic. ad Q. fratrem. Demosthenès interroga<g ref="char:EOLhyphen"/>tuí, quid Deo simile haberent homines; Respondit, benigne facere &amp; sinceritatem a<g ref="char:EOLhyphen"/>mare, Maxim. Serm. <hi>8.</hi>
+                  </note> sincerely without dissimulation, for it is not enough, to speak well of him, and to do good unto him, unless it be with a true and sincere heart, so that the outward habit, and the inward intent of the heart must concurre, otherwise they are like to those painted Sepulchres our Saviour speaks off, <hi>Mat.</hi> 23.27. <hi>The outside very glorious, but the in<g ref="char:EOLhyphen"/>side nothing but corrupted bones, and rottenness,</hi> having out<g ref="char:EOLhyphen"/>wardly a dissembling show of <hi>Love,</hi> but inwardly are meer hypocrites:</p>
+               <p>
+                  <hi>Secondly,</hi> to <hi>Love</hi> as a <hi>brother,</hi> is to <hi>Love</hi>
+                  <note n="[a]" place="margin">Tunc plena cordis nostri com<g ref="char:EOLhyphen"/>passio est quam mala inopia pro proxima sus<g ref="char:EOLhyphen"/>cipere non meruimus, ut illum a passione liberemus. Plus est aliquando compati ea corde, qu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>dare, quia quis{que} indigenti perfect<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> compatitur minus estimat omne quod dat; &amp; re<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> quamlibet plarum{que} dat, qui non compatitur <hi>Greg. moral</hi> l. <hi>20.</hi>
+                  </note>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> that is, to make our <hi>brothers</hi> calamities and miseries, as though they were our own a friend that loveth, &amp;c. <hi>Prov.</hi> 17.17. for as a member in a mortal body, being wound<g ref="char:EOLhyphen"/>ed or diseased, all the rest of the body feels the smart there of, so in the spiritual body (the Church of God) whereo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Christ is the head, there ought to be a<note n="[b]" place="margin">Si doles condol<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> non dol<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o tantum, maxime sciens a salute longius absistere membrum quod obstupuit<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> aegrum sese non sentientem periculosius laborare. Bern. de consol. ad Eug. Cujus pect<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> tam ferreum, cujus cor tam lapideum, ut genitus non exprimat, lach<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>yma non eff<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> dat, cum proxime vel amici morbum vel interitum intuetur, ut patienti, non compa<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>tur, &amp; dolenter non condoleat; Ipse Jésus cum videsset Mariam, &amp; judaeos plera<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> infremuit spiritu turvavit se ipsum &amp; lachrymatus est Inne de vilit. Condit. humi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Tanto quis{que} perfectior est quanto perfectius, sentit dolores alienos. <hi>Greg. Moral. li<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 19.</hi> Christus ipse patiendo compassus est non solum erat patiens sed compabions. <hi>Ba<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLunhyphen"/>nard, in Canc.</hi>
+                  </note> Fellow feelin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="17" facs="tcp:205464:12"/> one of anothers miseries, and a condoling sorrow for them, as though they were proper unto themselves: hence is it that he that receiveth Christ, receiveth God, and he that contemneth a true Christian, contemneth Christ, who per<g ref="char:EOLhyphen"/>secuteth a true Christian persecuteth Christ, and therefore saith our Saviour, <hi>Acts</hi> 9.1. (When they persecuted his members the Church) <hi>Saul Saul why persecutest thou me?</hi> the head was sensible of the persecution of the body, there<g ref="char:EOLhyphen"/>fore saith he, <hi>why persecutest thou me.</hi>
+               </p>
+               <p>
+                  <hi>Thirdly,</hi>
+                  <note n="[c]" place="margin">Constan<g ref="char:EOLhyphen"/>tia est nutrix ad meritu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> moderatrix ad praemium soror est pati<g ref="char:EOLhyphen"/>entia perse<g ref="char:EOLhyphen"/>verantiae fili<g ref="char:EOLhyphen"/>a, omnes pacis, amicitiarum nodus unanimitatis vinculum, sanctitatis propugnaculum Deni{que} non qui incaeperit, sed qui perseveravit us{que} ad finem, sa vus erit. Bern. in e<g ref="char:EOLhyphen"/>pist. <hi>129.</hi> Constans &amp; perfectus debet esse Amor noster si necesse fuerit, amore illius moriamur qui amare nostro placide ac benigne mori dignatus est. August. de Catal. rudib. Vide <hi>1 John 4.17. Heb. 3.14.</hi> Qua potes excusa, nec amici desere causam Quo <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ede caepisti, sic bene semper eas. <hi>Ovid. lib. 1. de Tristib.</hi>
+                  </note> to <hi>Love</hi> as a <hi>Brother</hi> is to <hi>Love</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> to be constant therein, to continue to the end, not to be fleeting, or wavering in their <hi>Love,</hi> not to <hi>Love</hi> for a day, or a month, or a year, and then give over: not to be wea<g ref="char:EOLhyphen"/>ry of well doing, not to be weary of <hi>Loving;</hi> after the ex<g ref="char:EOLhyphen"/>ample of our blessed Saviour Christ, for those whom he <hi>Lo<g ref="char:EOLhyphen"/>veth,</hi> he <hi>Loveth</hi> unto the end.</p>
+               <p>
+                  <hi>Fourthly,</hi> to <hi>Love</hi> as a <hi>Brother</hi> is to <hi>Love</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> to be unwilling to have any<note n="[d]" place="margin">Concor<g ref="char:EOLhyphen"/>des unus ca<g ref="char:EOLhyphen"/>pit lectulus, sed d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>scordes pe tota qui<g ref="char:EOLhyphen"/>dem Domus-Plaut. Her<g ref="char:EOLhyphen"/>balem &amp; Hi<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>salem.</note> discord or difference with any of the <hi>brethren,</hi> but to live in peace and unity, to keep the unity of Spirit in the bond of peace, <hi>Eph.</hi> 4.3.<note n="[e]" place="margin">Salust. (de bello Jugurthing) sic ait Mycipsa Rex jamjam moriturus, &amp; <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>onens filios suos paterno affectu, ut concordes sint, aureis sempte<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> literis scribendam sen<g ref="char:EOLhyphen"/>tentiam ut{que} adderent, Concordia parvae res crescunt discordia, &amp;c.</note>
+                  <hi>Concordia p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rvae res crescunt discordia magnae dilabuntur,</hi> is not so old as true (it is the <hi>Motto</hi> to <hi>Merchant-Taylors</hi> Arms, and it is a good one (by concord small things increase to great, by
+<pb n="18" facs="tcp:205464:13"/> discord great things come to nothing, therefore saith the <hi>Psalmist behold</hi> (do not perfunctorily look over it but behold) <hi>how good, and joyful a thing it is for Brethren to live together in unity,</hi> Psal. 133.1.</p>
+               <p>
+                  <note n="[f]" place="margin">Distanti<g ref="char:EOLhyphen"/>a loci non tol<g ref="char:EOLhyphen"/>lit amiciti<g ref="char:EOLhyphen"/>am. Aristot. Ethic. lib. <hi>8.</hi> cap. <hi>5.</hi>
+                  </note>
+                  <hi>Fifthly</hi> and <hi>Lastly,</hi> to <hi>Love</hi> as a <hi>Brother,</hi> is to <hi>Love</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <hi>ubique gentium,</hi> to make no difference of place, for <hi>Love</hi> must be extended to a <hi>Brother</hi> in <hi>London,</hi> as well as <hi>Westmerland,</hi> in <hi>England,</hi> all over as well as <hi>London,</hi> in <hi>France, Spain,</hi> or <hi>Italy,</hi> as well as <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ngland,</hi> abroad as well as at home: So <hi>Pauls Love</hi> did reach from <hi>Corinth</hi> to <hi>Rome,</hi>
+                  <note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                     <hi>&amp;c.</hi> 1. <hi>Pet.</hi> 1.1.</note> from <hi>Philippi</hi> to <hi>Corinth,</hi> from <hi>Rome</hi> to <hi>Ephesus,</hi> and so our Apostle <hi>[g]</hi> St. <hi>Peter,</hi> in my text, exhorts the stran<g ref="char:EOLhyphen"/>gers, that dwell here and there throughout <hi>Pontus Galatia, Cappadocia, Asia</hi> and <hi>Bythinia to love as brethren.</hi>
+               </p>
+               <p n="1">I. But how many fail in these duties, in these days? the number is innumerable, therfore I say unto every one of you in particular, dost thou <hi>Love</hi> thy Neighbour as thy self, dost thou <hi>Love</hi> him without fraud or dissimulation? or dost thou call him<note n="[h]" place="margin">Facto pi<g ref="char:EOLhyphen"/>us &amp; scelera<g ref="char:EOLhyphen"/>tus eodem. O<g ref="char:EOLhyphen"/>vid. Met. lib. <hi>3.</hi>
+                  </note>
+                  <hi>Brother</hi> in Christ, yet would cut his throat<note n="[i]" place="margin">Innocens contra hypo<g ref="char:EOLhyphen"/>critam susci<g ref="char:EOLhyphen"/>tabirum in judicio Job. <hi>17 8.</hi> Job. <hi>8.13.</hi> Mat. <hi>6.24.</hi>
+                  </note> behind his back? if so thy portion shall be with hypocrites where shall be weeping wailing, and gnashing of teeth.</p>
+               <p n="2">II. Dost thou make thy <hi>Brothers</hi> Calamities as though they were thine own? art thou partaker of his miseries or ra<g ref="char:EOLhyphen"/>ther dost thou flout and laugh at his miseries? surely then thou art no member of Christ,<note n="[k]" place="margin">Mortu<g ref="char:EOLhyphen"/>um est corpo<g ref="char:EOLhyphen"/>ris mem<g ref="char:EOLhyphen"/>brum, quod alterius non sensit affectum nec se verum mystici corporis membrum estimet qui alteri patienti non condolet. Gerard. Meditat. Dolentem non potest, consolari, qui non concor<g ref="char:EOLhyphen"/>dat dolori Emolliri debet animus ut afflicto congruat, congruens inhaereat inhaerens trahat. nec ferrum ferro conjungitur, si non utrin{que} exustione ignis liquetur. <hi>Greg. Moral.</hi> Qui vere amans est omni tempore diligit, nam eum tormentum non seperat, labor non laxat, thesaurus non superat, alienas amor non occupat, <hi>Cass. in Epist.</hi>
+                  </note> thou art but like a wood<g ref="char:EOLhyphen"/>en
+<pb n="19" facs="tcp:205464:13"/> leg, crept in the Church, or hast no sence or feeling of any other members, therefore great is thy Judge<g ref="char:EOLhyphen"/>ment.</p>
+               <p n="3">III. Dost thou <hi>Love</hi> thy <hi>brother</hi> constantly unto the end? dost thou never shrink from him in any distress, but stick as close to him as the bark unto the tree? or is thy <hi>Love</hi> as the dew, soon on, and soon off? or dost thou forsake him, as the <hi>Disciples</hi> did <hi>Christ?</hi> then thou breakest the Com<g ref="char:EOLhyphen"/>mandement of Christ, that we should love one another as he hath loved us, and those whom he <hi>Loveth</hi> he <hi>Loveth</hi> unto the end, <hi>John</hi> 13.1.</p>
+               <p n="4">IV. Art thou a favourer of Unity and Peace among thy <hi>brethren?</hi> dost thou seek to stay their hatred and pacifie their Wrath?<note n="[l]" place="margin">Quisquis corpus affli<g ref="char:EOLhyphen"/>git sed con<g ref="char:EOLhyphen"/>cordiam dese<g ref="char:EOLhyphen"/>rit; Deum quidem lau<g ref="char:EOLhyphen"/>dat in tympa<g ref="char:EOLhyphen"/>no sed non in choro Hier<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> super Epist ad Rom.</note> or art thou a brother of discord and dissention, and means to set thy <hi>brethren</hi> together by the Ears? then observe what St. <hi>Austine</hi> saith, <hi>Non erit tibi concordia cum Christo, si sit discordia cum Christiano,</hi> thou shalt have no concord with Christ, if thou art at discord with a Christian<note n="[m]" place="margin">Sicut nihil est pre<g ref="char:EOLhyphen"/>tiosius Deo virtute di<g ref="char:EOLhyphen"/>lectionis ete nihil est desi<g ref="char:EOLhyphen"/>derabilis Diabolo extinctione cha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>itatis. Quisqu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s ergo seminando jung<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a dilecti<g ref="char:EOLhyphen"/>onem prox morum perimit, hosti Dei familiarius servit, <hi>Greg. in past.</hi>
+                  </note> or rather that, <hi>Si vocantur filii Dei qui pacem faciunt, procul dubio sunt filii Diaboli qui pacem con<g ref="char:EOLhyphen"/>fundunt.</hi> If they be called the Sons of God that make peace, then without doubt, they are the Sons of the Devil, that confound peace, and are the Authors of discord and division, and therefore are reckoned amongst those that God hates, for these six things doth the Lord hate, yea his soul abhorreth seaven, the haughty eyes, a lying tongue, and the hands that shed innocent blood, a heart that imagineth
+<pb n="20" facs="tcp:205464:14"/> wicked enterprizes, feet that be swift in running to mischeif, a false witness that speaketh lyes, and him that raiseth up contention among <hi>Brethren,</hi> Prov. 6.16.17, 18, 19.</p>
+               <p n="5">V. Or dost thou <hi>Love</hi> thy <hi>Brother</hi> wheresoever he be, at home or abroad; in the Countrey or in the City in thine own Parish or in another, in thine own house or without? Or dost thou hate a stranger, a Townsman, a Forraigner or a door Neighour? then know this, that as God is no Accepter of Persons, so he is no Accepter of Place, and for this will bring thee to Judgement.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Ob. </seg>1</label> Some may object, and say, how can this Doctrine be true, that we must <hi>Love</hi> our <hi>Brethren</hi> always even unto the end? seeing it is said in the book of the Preacher, that there is a time to <hi>Love,</hi> and a time to hate, <hi>Ecclesi<g ref="char:EOLhyphen"/>astes</hi> 3.8.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Sol. </seg>
+                  </label> I answer, that in this place is not meant, that a man may sometimes <hi>Love,</hi> and sometimes hate his <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rother</hi> lawfully but these words, as also all those from the beginning of the Chapter are to show unto us, that all the actions and affections of men, whether rhey be good or evil, have been and are done in the appointed time of God: for <hi>Non de<g ref="char:EOLhyphen"/>notant quid agendum sit, sed quid agimus,</hi> the words demon<g ref="char:EOLhyphen"/>strate not what we ought or may lawfully do, but what we commonly do: So that they may seem to be understood thus,<note n="[n]" place="margin">Tempus dilectionis quam diu ille qui diligitur est bonus, &amp; tempus odiis, quando efficitur ma<g ref="char:EOLhyphen"/>lus: non tam òdiendo naturam quam culpam. Lyra in loc.</note> There is a time to <hi>love,</hi> that is, there is a time
+<pb n="21" facs="tcp:205464:14"/> wherein we love our <hi>brother,</hi> and there is a time to hate our <hi>Brother,</hi> not by any approbation on Gods part, but through our own corrupt and malignant affections.</p>
+               <p>
+                  <hi>Secondly,</hi> Some may say, that his neighbour is both an <label type="milestone">
+                     <seg type="milestoneunit">Ob. </seg>2</label> enemy to God, he blasphemeth his Name, prophaneth his Sabbaths, and the like, and also he is an enemy to me, for he hath greatly indamaged me in my goods and good name therefore what have I to do with him, in what thing am I bound to him, that is both an enemy to God and me.</p>
+               <p>Beloved thou that dost thus reason with thy self know this, that thou must not contemn any man, <label type="milestone">
+                     <seg type="milestoneunit">Sol. </seg>
+                  </label>
+                  <note n="o]" place="margin">Perfecta charitas est rectissima a<g ref="char:EOLhyphen"/>nimi affectio qua diligitur Deus propter se, &amp; proxi<g ref="char:EOLhyphen"/>mus propter seipsum Aug de Doctri. Christ. Odio habebis ini<g ref="char:EOLhyphen"/>micum tuum Mat. <hi>5.43.</hi> non inimicos <hi>but in the singular number meaning the Devil our com<g ref="char:EOLhyphen"/>mon enemy, as Aug. Serm. 59. de Temp.</hi> non fratrem sed Diabolum. Idem ibidem.</note>
+                  <hi>Love</hi> thy friends in the Lord, and thine enemies for the Lords sake, who when thou wast his enemy, he so <hi>loved</hi> thee, that to redeem thee, and deliver thee out of the hands of thine e<g ref="char:EOLhyphen"/>nemies, he gave his own life for thee. And although thine Neighbour be an enemy both against God and thee, yet for all this he must not be hated, and despised,<note n="[p]" place="margin">Este similis medico medicus non amat aegrotantem si non odit agritudinem: ut libere<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> aegrotum febrim persequitur Nolite amare vitia amicorum vestrorum, si amatis ami<g ref="char:EOLhyphen"/>cos vestros. Aug. in quodam Serm. Non attinde, quid tibi faciat homo, sed attende, quid tu feceris Deo, non attende injurias quas infert inimicus, sed attende beneficia, quae confert tibi is, qui jubet a<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e inimicum diligas. Gerard. Meditat. Ne fratri iras<g ref="char:EOLhyphen"/>cere quamvis peccato fratris irasceris, Aug. Retract. lib. <hi>1.</hi> cap. <hi>19.</hi> Non minima pars dilectionis est reprehendere delictum. Idem. Diligite homines interficite errores. A<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>g. con. lit. Petilian; <hi>lib. 1. cap. 29.</hi> Pacem cum hominibus bellum cum vitiis. Idem de cate<g ref="char:EOLhyphen"/>rudibus <hi>cap. 27.</hi>
+                  </note> but in this thou must imitate the Physitian, who hateth the Disease, but not the Diseased, so do thou, <hi>Loving</hi> that which is made of God, and abhorring that which is of the Devil, considering him not as thine enemy, but as the Image of God, and the workmanship of his hands.</p>
+               <pb n="22" facs="tcp:205464:15"/>
+               <p>And thus (beloved) I have as plainly and breifly as I could, lay'd open these words unto you <hi>Love as Brethren.</hi> Wherein I show'd you the <hi>matter</hi> and the <hi>manner,</hi> the <hi>mat<g ref="char:EOLhyphen"/>ter Love,</hi> the <hi>manner</hi> as <hi>brethren,</hi> in the matter <hi>Love,</hi> I laid open unto you.</p>
+               <list>
+                  <item>1. To whom <hi>Love</hi> doth belong.</item>
+                  <item>2. In what it consists.</item>
+               </list>
+               <p>In the manner as <hi>brethren,</hi> I show'd you there were five sorts of <hi>Brethren,</hi> in all which we are joyn'd together in <hi>Love.</hi>
+               </p>
+               <list>
+                  <item>1. In <hi>Humanity.</hi>
+                  </item>
+                  <item>2. In <hi>Affinity.</hi>
+                  </item>
+                  <item>3. In <hi>Consanguinity.</hi>
+                  </item>
+                  <item>4. In <hi>Christianity.</hi>
+                  </item>
+                  <item>5thly and <hi>lastly.</hi> By <hi>Proximity.</hi>
+                  </item>
+               </list>
+               <p>Being all of one Country, much more of one County. And in this I show'd you that we ought to <hi>Love as brethren</hi> In the next place I manifested unto you, how we ought to <hi>Love as brethren.</hi> And that was.</p>
+               <list>
+                  <item>1. <hi>Sincerely.</hi>
+                  </item>
+                  <item>2. <hi>Compassionately.</hi>
+                  </item>
+                  <item>3. <hi>Constantly.</hi>
+                  </item>
+                  <item>4. <hi>Unanimously.</hi>
+                  </item>
+                  <item>5thly and <hi>lastly.</hi>
+                     <note n="[q]" place="margin">Omni tempore dili<g ref="char:EOLhyphen"/>git qui ami<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>us, est, &amp; frater in an<g ref="char:EOLhyphen"/>gustiis com<g ref="char:EOLhyphen"/>probatur. <hi>Prov. 17.17</hi>
+                     </note>
+                     <hi>Universally.</hi>
+                  </item>
+               </list>
+               <p>At all times, and in all places. And so much for the Text, and the time. Consider what <hi>I</hi> have said and the Lord give you understanding in all things.</p>
+               <p>Appendix.</p>
+               <p>And now, methinks <hi>I</hi> hear you say, the Ser<g ref="char:EOLhyphen"/>mon is done, no (my Brethren and Compatriots) it is but said, it is not done, it is then done and onely then, when we put in practise what hath been said<note n="[r]" place="margin">Bernard in Cant.</note>
+                  <hi>Verba verte in opera</hi>
+                  <pb n="23" facs="tcp:205464:15"/> (saith St: <hi>Bernard</hi>) turn the words into deeds, and then the Sermons done. We have all this while discoursed of <hi>Love</hi> and <hi>Brotherly kindness:</hi>
+                  <note n="[s]" place="margin">Charitas est radix, fructus sunt opera, Aug. super <hi>Psal. 4.1.</hi> fructus spiritus est charitas Gal. <hi>5 22.</hi>
+                  </note>
+                  <hi>Love</hi> is the root, <hi>brotherly kindness</hi> is the tree, but <hi>Charity</hi> is the fruit, <hi>love</hi> and <hi>bro<g ref="char:EOLhyphen"/>therly kindness</hi> is the house, but <hi>Charity</hi> is the roof, which heals all, keeps all dry and warm; let us add the roof unto the house, <hi>add to brotherly kindness Charity,</hi> they are the words of our Apostle 1. <hi>Pet.</hi> 1.7. and that is done,<note n="[t]" place="margin">Vide <hi>Jam. 2.15.16.</hi> Pascit e<g ref="char:EOLhyphen"/>surientes cha<g ref="char:EOLunhyphen"/>ritas, pascit &amp; superbia: charitas ut Deus laude<g ref="char:EOLhyphen"/>tur, superbia ut ipsa landetur vestit &amp; superbia. August. super Epistol. Jo. cap. <hi>7.</hi> Si non pavisti occidisti Ambros. Qui succurrere perituro potest, &amp; non succurit, occidit. Sen.</note> by <hi>feeding the hungry or cloathing the naked,</hi> if there be any of our <hi>Brethren</hi> or <hi>Compatriots,</hi> which be in need or necessity, that we lend our helping hands, every man according to his power, for their releif.<note n="[v]" place="margin">August de civit. Dei. lib. <hi>10.</hi> cap. <hi>1.</hi>
+                  </note> Charitable works to our <hi>bre<g ref="char:EOLhyphen"/>thren,</hi> (saith the apostle are <hi>pro sacrificiis,</hi> instead of sacrifi<g ref="char:EOLhyphen"/>ces, Heb. 13.6. Nay <hi>prae sacrisiciis,</hi> before or better then sacrifices, Hos. 6.6.</p>
+               <p>A King of our Country (<hi>I</hi> mean of <hi>Northumberland</hi>) in a controversie about <hi>Easter,,</hi> some alledging for <hi>Peter,</hi> o<g ref="char:EOLhyphen"/>thers for <hi>John,</hi> bethought himself, that <hi>Peter</hi> was the Pot<g ref="char:EOLhyphen"/>ter of Heaven-gate, saying, he would make the Potter his friend, that he might be sure to get in. Whatsoever he did of <hi>Peter,</hi> let us do of Charity. Let us hereby make <hi>Christ</hi> our friend, he is <hi>sanua vitae,</hi> and thus the poor are made our friends, <hi>ready to receive us into everlasting habitations.</hi> Luke. 16.9. <hi>I</hi> will onely commend unto you one porti<g ref="char:EOLhyphen"/>on of Scripture, which <hi>I</hi> would have you seriously consider on, both novv and anon, and vvith that <hi>I</hi> vvill conclude all, and it is in Deut. 15.9.10, 11. <hi>Beware that there be not a thought in thy heart, saying the seventh year, the year of the re<g ref="char:EOLhyphen"/>lease is at hand, and thy eye be evil against thy poor brother,
+<pb n="24" facs="tcp:205464:16"/> and thou givest him nothing, and he cry unto the Lord against thee,</hi>
+                  <note place="margin">Judicium si<g ref="char:EOLhyphen"/>ne misericor<g ref="char:EOLhyphen"/>dia, erit iis, qui non faci<g ref="char:EOLhyphen"/>unt misere<g ref="char:EOLhyphen"/>cordiam, &amp; gloriatur mi<g ref="char:EOLhyphen"/>sericordia adversus damnationem Jam. <hi>2.13.</hi>
+                  </note>
+                  <hi>and it be sin against thee. Thou shalt surely give him, and thine heart shall not be grieved, when thou givest unto him because that for this thing, the Lord thy God shall bless thee in all thy works, and in all that thou puttest thine hand unto. For the poor shall never cease out of the Land, therefore I command thee saying, thou shalt open thine hand wide unto thy brother, to thy poor, and to thy needy in the Land.</hi>
+               </p>
+               <p>Thus if we shall do, of <hi>Westmerlandians</hi> we shall become <hi>Philadelphians,</hi> let us so <hi>love</hi> as brothers here upon earth, that we may for ever live together as brothers hereafter in the Kingdom of Heaven: Which the Lord grant unto us all, even for his Son Christ Jesus his sake, To whom, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="to_the_reader">
+            <p>I desire the Christian Reader, if he find any Errata's omitted by reason of the Authors sickness and keeping his bed, that you would courteously amend them with your Pen.</p>
+            <pb facs="tcp:205464:16"/>
+            <pb facs="tcp:205464:17"/>
+         </div>
+      </back>
+   </text>
+</TEI>
